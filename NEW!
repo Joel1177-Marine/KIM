@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>❗My Favorite Moive'</title>
+		<meta charset="utf-8">
+		<style>
+			h1 {
+				text-align: center;
+				margin-bottom: 75px;
+				font-size: 50px;
+			}
+
+			.Movie {
+				background-color: #eee;
+				border-radius: 20px;
+				margin-bottom: 50px;
+				padding: 50px;
+				width: 520px;
+				margin-left: auto;
+				margin-right: auto;
+			}
+
+			.Movie .Title {
+				text-align: center;
+				font: italic;
+			}
+			.Movie .Poster {
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+				margin-top: 40px;
+				margin-bottom: 40px;
+			}
+			.Movie .Summary {
+				font-size: 16px;
+			}
+
+		</style>
+	</head>
+
+	<body>
+		<h1>🎞&nbspMy favorite Movie&nbsp🎭</h1>
+
+		<div class="Movie">
+			<h2 class="Title"><a href="https://movie.naver.com/movie/bi/mi/basic.nhn?code=39841" target="_blank">괴물</a></h2>
+			<img class="Poster" src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA0MjdfMzAg%2FMDAxNjE5NTEyNDMzOTY1.u-BgZELxXPH8srDKSP80RwFldSYL5Dt3c4znM1efZEMg.AQHpQ0Eti3Xk0Na1wsHL_5AlAfSzdur9X9m7kfIynF4g.JPEG.online_c%2F009.jpg&type=a340" width="250">
+			<p class="Summary">햇살 가득한 평화로운 한강둔치 아버지(변희봉)가 운영하는 한강 매점, 늘어지게 낮잠 자던 강두(송강호)는 잠결에 들리는 ‘아빠’라는 소리에<br> 벌떡 일어난다. 올해 중학생이 된 딸 현서(고아성)가 잔뜩 화가 나있다. 꺼내놓기도 창피한 오래된 핸드폰과, 학부모 참관 수업에 술 냄새 풍기며 온 삼촌(박해일)때문이다. 강두는 고민 끝에 비밀리에 모아 온 동전이 가득 담긴 컵라면 그릇을 꺼내 보인다. 그러나 현서는 시큰둥할 뿐, 막 시작된 고모(배두나)의 전국체전 양궁경기에 몰두해 버린다. 그곳에서 괴물이 나타났다. 한강 둔치로 오징어 배달을 나간 강두, 우연히 웅성웅성 모여있는 사람들 속에서 특이한 광경을 목격하게 된다. 생전 보도 못한 무언가가 한강다리에 매달려 움직이는 것이다. 사람들은 마냥 신기해하며 핸드폰, 디카로 정신 없이 찍어댄다. 그러나 그것도 잠시… 정체를 알 수 없는 괴물은 둔치 위로 올라와 사람들을 거침없이 깔아뭉개고, 무차별로 물어뜯기 시작한다. 순식간에 아수라장으로 돌변하는 한강변. 강두도 뒤늦게 딸 현서를 데리고 정신 없이 도망가지만, 비명을 지르며 흩어지는 사람들 속에서, 꼭 잡았던 현서의 손을 놓치고 만다. 그 순간 괴물은 기다렸다는 듯이 현서를 낚아채 유유히 한강으로 사라진다. 어딘가에 있을 현서를 반드시 찾아야 한다. 갑작스런 괴물의 출현으로 한강은 모두 폐쇄되고, 도시 전체는 마비된다. 하루아침에 집과 생계, 그리고 가장 소중한 현서까지 모든 것을 잃게 된 강두 가족… 돈도 없고 빽도 없는 그들은 아무도 도와주지 않지만, 위험구역으로 선포된 한강 어딘가에 있을 현서를 찾아 나선다.</p>
+		</div>
+
+		<div class="Movie">
+			<h2 class="Title"><a href="http://program.tving.com/tvn/navillera" target="_blank">나빌레라</a></h2>
+			<img class="Poster" src="https://search.pstatic.net/common/?src=http%3A%2F%2Fimgnews.naver.net%2Fimage%2F5575%2F2021%2F02%2F25%2F0000178707_001_20210225080829750.jpeg&type=a340"width="250">
+			<p class="Summary">여기 아주 오랫동안 발레를 꿈꿨던 <strong>늙은이</strong>가 있다. 아무에게도 말하지 못했고, 감히 이룰 수 있을 거라 생각하지 않았다. 그 <strong>아이</strong>를 만나기 전까지는. 스물 셋의 그 아이는 사는 게 무거워 꿈이 희미해지고 있었다. 그저 춤을 추는 것만으로도 충분했고, 감히 내일은 생각할 수 없었다. 그 할아버지를 만나기 전까지는. <strong>'나빌레라'</strong>'는 꿈에 대한 이야기다. 꿈이 있거나 혹은 꿈이 없거나 아니면 꿈이 뭔지도 모르는 사람들의 이야기. 누구나 꼭 한 번은... 날아오르는 이야기다.
+		</div>
+	</body>	
+</html>
